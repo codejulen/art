@@ -1,0 +1,48 @@
+{
+  "base": {
+    "setName": "",
+    "description": "",
+    "gallery": []
+  },
+  "skin": {
+    "setName": "IN YOUR SKIN (2018 - 2019)",
+    "description": "In Your Skin is an exploration of the familiar yet ethereal human body. Capturing confidence in intimacy, it is a collection of deeply personal, almost voyeuristic portraits of friends.",
+    "gallery": [
+      {
+        "url": "https://live.staticflickr.com/65535/33924522378_86410c1b1e_h.jpg"
+      },
+      {
+        "url": "https://live.staticflickr.com/65535/47801437451_85b14cdabb_h.jpg"
+      },
+      {
+        "url": "https://live.staticflickr.com/65535/33954186948_79c8c170a6_h.jpg"
+      },
+      {
+        "url": "https://live.staticflickr.com/65535/48783235176_0d3aea0576_h.jpg"
+      },
+      {
+        "url": "https://live.staticflickr.com/65535/32858113537_308fbf7ed4_h.jpg"
+      },
+      {
+        "url": "https://live.staticflickr.com/65535/49417366436_870e58e403_h.jpg"
+      },
+      {
+        "url": "https://live.staticflickr.com/65535/49261011237_e85c476227_h.jpg"
+      },
+      {
+        "url": "https://live.staticflickr.com/1974/45472888732_6f84c1756e_h.jpg"
+      },
+      {
+        "url": "https://live.staticflickr.com/65535/49128293308_90c7165590_h.jpg"
+      },
+      {
+        "url": "https://live.staticflickr.com/65535/49519449903_7607fa4bdb_h.jpg"
+      },
+      {
+        "url": "https://live.staticflickr.com/65535/49303203677_76f8fb4098_h.jpg"
+      }
+    ]
+  },
+  "growing": {},
+  "puzzle": {}
+}
