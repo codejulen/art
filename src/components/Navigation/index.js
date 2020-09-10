@@ -7,11 +7,11 @@ const Navigation = ({ onBodyChange }) => {
   const onClickSkin = () => {
     onBodyChange("skin");
   };
+  const onClickDreaming = () => {
+    onBodyChange("dreaming");
+  };
   const onClickGrowing = () => {
     onBodyChange("growing");
-  };
-  const onClickPuzzle = () => {
-    onBodyChange("puzzle");
   };
   return (
     <NavigationWrapper>
@@ -22,16 +22,20 @@ const Navigation = ({ onBodyChange }) => {
         <ButtonWrapper>
           <Grid container xs={12}>
             <Grid container xs={12} sm={4}>
-              <Button onClick={onClickSkin}>in your skin</Button>
-            </Grid>
-            {/* <Grid container xs={12} sm={4}>
-              <Button onClick={onClickGrowing}>growing overseas</Button>
+              <Button onClick={onClickSkin}>
+                We'll see creation come undone
+              </Button>
             </Grid>
             <Grid container xs={12} sm={4}>
-              <Button onClick={onClickPuzzle}>
-                every frame a puzzle piece
+              <Button onClick={onClickDreaming}>
+                These bones that bound will be gone
               </Button>
-            </Grid> */}
+            </Grid>
+            <Grid container xs={12} sm={4}>
+              <Button onClick={onClickGrowing}>
+                We'll stir our spirits 'til we're one
+              </Button>
+            </Grid>
           </Grid>
         </ButtonWrapper>
       </Grid>

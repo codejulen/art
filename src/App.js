@@ -3,7 +3,7 @@ import "./App.css";
 import Navigation from "./components/Navigation";
 import PhotoSet from "./components/PhotoSet";
 function App() {
-  const [photoBody, setPhotoBody] = useState("skin");
+  const [photoBody, setPhotoBody] = useState("base");
   const onBodyChange = (value) => {
     setPhotoBody(value);
   };
